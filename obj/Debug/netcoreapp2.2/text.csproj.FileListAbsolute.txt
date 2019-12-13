@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/cs-text-based/obj/Debug/netcoreapp2.2/text.csprojAssemblyReference.cache
+/Users/Guest/Desktop/cs-text-based/obj/Debug/netcoreapp2.2/text.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/cs-text-based/obj/Debug/netcoreapp2.2/text.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/cs-text-based/obj/Debug/netcoreapp2.2/text.AssemblyInfo.cs
+/Users/Guest/Desktop/cs-text-based/bin/Debug/netcoreapp2.2/text.deps.json
+/Users/Guest/Desktop/cs-text-based/bin/Debug/netcoreapp2.2/text.runtimeconfig.json
+/Users/Guest/Desktop/cs-text-based/bin/Debug/netcoreapp2.2/text.runtimeconfig.dev.json
+/Users/Guest/Desktop/cs-text-based/bin/Debug/netcoreapp2.2/text.dll
+/Users/Guest/Desktop/cs-text-based/bin/Debug/netcoreapp2.2/text.pdb
+/Users/Guest/Desktop/cs-text-based/obj/Debug/netcoreapp2.2/text.dll
+/Users/Guest/Desktop/cs-text-based/obj/Debug/netcoreapp2.2/text.pdb
